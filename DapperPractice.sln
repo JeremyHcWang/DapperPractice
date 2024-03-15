@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperMVC", "DapperMVC\DapperMVC.csproj", "{DAFD06C3-508E-4962-BFD3-4CA9A8CFC839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperApplicationCore", "DapperApplicationCore\DapperApplicationCore.csproj", "{6DF7A7B0-742F-40D6-B84A-FDACC16DA0F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperInfrastructure", "DapperInfrastructure\DapperInfrastructure.csproj", "{3F342114-4F22-4D70-8244-04C3E68AFBB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAFD06C3-508E-4962-BFD3-4CA9A8CFC839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFD06C3-508E-4962-BFD3-4CA9A8CFC839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFD06C3-508E-4962-BFD3-4CA9A8CFC839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFD06C3-508E-4962-BFD3-4CA9A8CFC839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DF7A7B0-742F-40D6-B84A-FDACC16DA0F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF7A7B0-742F-40D6-B84A-FDACC16DA0F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF7A7B0-742F-40D6-B84A-FDACC16DA0F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF7A7B0-742F-40D6-B84A-FDACC16DA0F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F342114-4F22-4D70-8244-04C3E68AFBB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F342114-4F22-4D70-8244-04C3E68AFBB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F342114-4F22-4D70-8244-04C3E68AFBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F342114-4F22-4D70-8244-04C3E68AFBB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
